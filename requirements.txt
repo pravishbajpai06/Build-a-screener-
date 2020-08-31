@@ -1,0 +1,4 @@
+I worked on this screener using:
+1- python language
+2-using panda library
+3-using xlrd
